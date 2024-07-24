@@ -230,10 +230,10 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<blockquote><i><a href="https://t.me/INDORECINEMAS5">📑{file_name}</a></i></blockquote>
 
-<a href="https://t.me/INDORECINEMAS5">[ ⚜️「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙞𝙉𝙀𝙈𝘼𝙎」⚜️ ]</a><br>
-<a href="https://t.me/INDORECINEMAS5">[ ⚜️「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙞𝙉𝙀𝙈𝘼𝙎」⚜️ ]</a>
+<a href="https://t.me/INDORECINEMAS5">[ ⚜️「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」⚜️ ]</a><br>
+<a href="https://t.me/INDORECINEMAS5">[ ⚜️「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」⚜️ ]</a>
 
-𝖩𝗈𝗂𝗇➥ : <a href='https://t.me/INDORECINEMAS5'>「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙞𝙉𝙀𝙈𝘼𝙎」</a></b>"""
+𝖩𝗈𝗂𝗇➥ : <a href='https://t.me/INDORECINEMAS5'>「𝙄𝙉𝘿𝙊𝙍𝙀 𝘾𝙄𝙉𝙀𝙈𝘼𝙎」</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
