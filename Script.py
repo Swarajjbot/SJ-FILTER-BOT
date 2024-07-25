@@ -231,7 +231,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<i><a href="https://t.me/INDORECINEMAS5">📑{file_name}</a></i>
 
 <blockquote><a href="https://t.me/INDORECINEMAS5">[ ⚜️『INDORE CINEMAS』⚜️ ]</a><br>
-            <a href="https://t.me/INDORECINEMAS5">[ ⚜️『INDORE CINEMAS』⚜️ ]</a></blockquote>
+  <a href="https://t.me/INDORECINEMAS5">[ ⚜️『INDORE CINEMAS』⚜️ ]</a></blockquote>
 
 Join➥ : <a href="https://t.me/INDORECINEMAS5">『INDORE CINEMAS』</a></b>"""
 
