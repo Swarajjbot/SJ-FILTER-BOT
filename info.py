@@ -53,7 +53,7 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://imax:imax@cluster0.xp2ymbp.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "imax")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'techvjcollection'')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'techvjcollection')
 
 # Premium And Referal Settings
 PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', True)) # Set Ture Or False
@@ -143,7 +143,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://christian-modestine-indorecinemasop-ba6dcf74.koyeb.app/")
+URL = environ.get("URL", "https://given-sapphira-indorecinemasop-f368d3f2.koyeb.app/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
