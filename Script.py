@@ -228,7 +228,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<blockquote><i><a href="https://onlyfans.wtf/rizztiano">📑{file_name}</a></i></blockquote>"""
+    CAPTION = """<blockquote><i><a href="http://telegram.me/Heisenberg1609">📑{file_name}</a></i></blockquote>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
